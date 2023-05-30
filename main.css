@@ -8,6 +8,20 @@ body
     background-color: #ff8c69;
     outline: 0cm;
     border-width: 0cm;
-    
+}
+.secondaryButton
+{
+    background-color: #adffc0;
+    outline: 0cm;
+    border-width: 0cm;
+}
 
+.accent
+{
+    background-color: #cbe967;
+}
+
+#test
+{
+    visibility: hidden;
 }
